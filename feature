@@ -1,1 +1,2 @@
+<<<<<<< HEAD
 conflict 2
